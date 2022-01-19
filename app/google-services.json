@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "854611187266",
+    "firebase_url": "https://p14c-authenticator-app.firebaseio.com",
+    "project_id": "p14c-authenticator-app",
+    "storage_bucket": "p14c-authenticator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854611187266:android:82e5b7588b4f07ce1fffdb",
+        "android_client_info": {
+          "package_name": "com.example.myloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854611187266-agi9lr5lbn76e7qk5obo8kge34n75olt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLTfNFyyrWqTZ1LZtt3qHGMuQ8hKexoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854611187266-agi9lr5lbn76e7qk5obo8kge34n75olt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854611187266:android:001975e07f1789fa1fffdb",
+        "android_client_info": {
+          "package_name": "com.pingidentity.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854611187266-agi9lr5lbn76e7qk5obo8kge34n75olt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLTfNFyyrWqTZ1LZtt3qHGMuQ8hKexoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854611187266-agi9lr5lbn76e7qk5obo8kge34n75olt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854611187266:android:644401a7c7316b521fffdb",
+        "android_client_info": {
+          "package_name": "com.pingidentity.authenticatorsampleapp.branding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854611187266-agi9lr5lbn76e7qk5obo8kge34n75olt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLTfNFyyrWqTZ1LZtt3qHGMuQ8hKexoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854611187266-agi9lr5lbn76e7qk5obo8kge34n75olt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854611187266:android:ce1b1a5c778743eb1fffdb",
+        "android_client_info": {
+          "package_name": "com.pingidentity.pingone.fedetestsdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854611187266-agi9lr5lbn76e7qk5obo8kge34n75olt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLTfNFyyrWqTZ1LZtt3qHGMuQ8hKexoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854611187266-agi9lr5lbn76e7qk5obo8kge34n75olt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorGreyLight">#D3D3D3</color>
+    <color name="colorBlackTransparent">#4D000000</color>
+    <color name="colorBlackTransparentDark">#C8000000</color>
+    C8000000
+
+    <color name="blueLight">#a8d4e9</color>
+
+    <color name="redLight">#A31300</color>
+    <color name="greenLight">#4ABA78</color>
+    <color name="colorAlpha">#00FFFFFF</color>
+
+    <color name="otp_view_progress_normal">#8797A8</color>
+
+    <color name="side_menu_background_color">#F1F5F8</color>
+    <color name="slider_error_notification_background_color">#42474E</color>
+</resources>

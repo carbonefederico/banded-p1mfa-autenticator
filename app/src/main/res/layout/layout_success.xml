@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_above="@+id/text_view_success"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/cd_checkmark_image"
+        android:src="@mipmap/icon_checkmark" />
+
+    <TextView
+        android:id="@+id/text_view_success"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:text="@string/pairing_layout_paired_text"
+        android:textAppearance="@font/proxima_nova_regular"
+
+        android:textColor="@color/colorWhite"
+        android:textSize="22sp" />
+</RelativeLayout>
