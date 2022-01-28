@@ -96,7 +96,7 @@
                         android:layout_height="match_parent"
                         android:layout_below="@+id/placeholder_view"
                         android:layout_centerHorizontal="true"
-                        android:src="@mipmap/logo_horizontal" />
+                        android:src="@drawable/logo_horizontal" />
 
                     <RelativeLayout
                         android:layout_width="match_parent"
@@ -165,7 +165,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
-                    android:background="#C8000000"
                     android:padding="10dp"
                     android:stateListAnimator="@null"
                     android:text="@string/main_view_new_button_text" />

@@ -26,7 +26,7 @@
                     android:layout_below="@+id/placeholder_view"
                     android:layout_centerInParent="true"
                     android:contentDescription="@string/cd_bar_logo_image"
-                    android:src="@mipmap/logo_horizontal" />
+                    android:src="@drawable/logo_horizontal" />
             </RelativeLayout>
         </androidx.appcompat.widget.Toolbar>
         <TextView
